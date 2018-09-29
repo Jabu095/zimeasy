@@ -1,0 +1,51 @@
+.icon-AdminTouchize:before,
+.icon-AdminSettings:before,
+.icon-AdminGetStarted:before{
+    content: "\e959";
+}
+
+div.tmp-img {
+    content: url('../img/Touchize_Primary.png');
+    width: 253px;
+    margin-bottom: 10px;
+}
+
+.touchsize-menu {
+    position: relative;
+    z-index: 10;
+    margin-bottom: 0 !important;
+    padding-left: 0;
+}
+
+.touchsize-menu li {
+    list-style-type: none;
+    float: left;
+    margin: 0 5px;
+}
+
+.touchsize-menu li a {
+    display: block;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-size: 1.1em;
+    font-family: "Ubuntu Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+.touchsize-menu li.current a {
+    margin-bottom: -2px;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+    border-radius: 3px 3px 0 0;
+    background-color: #fff;
+    color: #555;
+}
+
+.touchsize-menu li.tz-right {
+    float: right;
+}
+
+.touchsize-menu li a.tz-license {
+    background-color: #00aff0;
+    color: #fff;
+}

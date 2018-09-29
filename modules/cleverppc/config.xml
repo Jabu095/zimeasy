@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cleverppc</name>
+    <displayName><![CDATA[Clever Google Adwords]]></displayName>
+    <version><![CDATA[1.1.2]]></version>
+    <description><![CDATA[Get your ad on Google with a Premium Google Partner.
+        With just 5 simple steps your campaigns will be on the Adwords search network, 
+        thanks to the technology of Clever. No work from your side. We will upload all campaigns for you.]]></description>
+    <author><![CDATA[Clever Ecommerce]]></author>
+    <tab><![CDATA[advertising_marketing]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall? 
+            You will lose all your Clever Google Adwords campaigns.]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
